@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleinfo><title>Indians for Indians Radio Show, April 18, 1950</title></titleinfo>
+<typeOfResource>Sound Recording</typeOfResource>
+<name><namePart>Don Whistler</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>
+<note type="broadcast note">Pawnee Group</note>
+<note type="broadcast number">107</note>
+<name><namePart>Philip Jim</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Franklin Jim</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Ralph Taylor</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Ella Jim</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Irene Mason</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<tableOfContents>
+Round Dances (5).  
+War Dances (3).  
+Pawnee Words - War Dance (8).  
+</tableOfContents>
+<note type="tape number">23</note>
+<originInfo><dateCreated>April 18, 1950</dateCreated></originInfo>
+<subject><topical>Pawnee</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
+</mods>

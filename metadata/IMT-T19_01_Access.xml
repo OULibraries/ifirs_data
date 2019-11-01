@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleinfo><title>Indians for Indians Radio Show, December 16, 1947</title></titleinfo>
+<typeOfResource>Sound Recording</typeOfResource>
+<name><namePart>Don Whistler</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>
+<note type="broadcast note">Oklahoma Baptist University - A Christmas Program </note>
+<note type="broadcast number">62</note>
+<name><namePart>Victor Kaneubbe</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>James Payne</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Kennedy Walkingstick</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Allen Morris</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Gabe Paxton</namePart><role><roleTerm type="text">accompanist</roleTerm></role></name>
+<tableOfContents>
+All Songs, Christmas songs in English.  
+Scripture Readings - Christmas Story.  
+Christmas Carols (English).  
+</tableOfContents>
+<note type="tape number">19</note>
+<originInfo><dateCreated>December 16, 1947</dateCreated></originInfo>
+<subject><topical>Oklahoma Baptist University</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
+</mods>

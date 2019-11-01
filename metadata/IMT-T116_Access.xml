@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleinfo><title>Indians for Indians Radio Show, Undated</title></titleinfo>
+<typeOfResource>Sound Recording</typeOfResource>
+<note type="broadcast number">186</note>
+<name><namePart>Clara Redbone</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Iola Redbone</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Ethlyn Archita</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Gertie Chalate</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Josie Connor</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Bessie Cisco</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Roberta Toppato</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<tableOfContents>
+Billy Goat Hill group: Clara Redbone, Iola Redbone, Ethlyn Archita, Gertie Chalate, Josie Connor, Bessie Cisco, Roberta Toppato.
+Handgames Songs. 
+</tableOfContents>
+<note type="tape number">116</note>
+<originInfo><dateCreated>Undated</dateCreated></originInfo>
+<subject><topical>Singers</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
+</mods>

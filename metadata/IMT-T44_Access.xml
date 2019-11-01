@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleinfo><title>Indians for Indians Radio Show, 1956</title></titleinfo>
+<typeOfResource>Sound Recording</typeOfResource>
+<note type="broadcast number">123</note>
+<name><namePart>John Henry Haury</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Raymond Nauni</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Jake Big Soldier</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Rachel and Linda Keye</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Joe Attocknie</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Mabel Harris</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Ida Attocknie Asah</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Floyd Tallbear</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<tableOfContents>
+Announcements.  
+War Dance led by Ramond Nauni.  
+Announcement.  
+Round Dance Songs (2).  
+Announcements.  
+War Dance Songs led by Joe Attocknie.  
+</tableOfContents>
+<note type="tape number">44</note>
+<originInfo><dateCreated>1956</dateCreated></originInfo>
+<subject><topical>Comanche</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
+</mods>

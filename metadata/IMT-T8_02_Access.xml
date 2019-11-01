@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleinfo><title>Indians for Indians Radio Show, June 11, 1946</title></titleinfo>
+<typeOfResource>Sound Recording</typeOfResource>
+<name><namePart>Don Whistler</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>
+<note type="broadcast number">25</note>
+<name><namePart>Bill Koomsa</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Leonard Cozad</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Beulah Hall</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<tableOfContents>
+War Dance - Theme Song - Club Song.
+Round Dance (3).
+Victory Dance (2).  
+Scalp Dance (2).  
+Gourd Dance.  
+Round Dance.  
+Gourd Dance Songs (About 4).  
+War Journey, Forty Nine Songs (2).  
+Slow War Dance (Slow).
+</tableOfContents>
+<note type="tape number">8</note>
+<originInfo><dateCreated>June 11, 1946</dateCreated></originInfo>
+<subject><topical>Kiowa</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
+</mods>

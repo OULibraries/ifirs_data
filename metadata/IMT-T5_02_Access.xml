@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<titleinfo><title>Indians for Indians Radio Show, September 11, 1945</title></titleinfo>
+<typeOfResource>Sound Recording</typeOfResource>
+<name><namePart>Don Whistler</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>
+<note type="broadcast number">9</note>
+<name><namePart>Albert Attocknie</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Joe Attocknie</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<name><namePart>Spencer Asah</namePart><role><roleTerm type="text">guest/performer</roleTerm></role></name>
+<tableOfContents>
+War Journey Songs (Forty Nine Songs). 
+Buffalo Dance.  
+Story - A Fight between Comanche and Sac &amp; Fox.  
+War Dance.  
+Round Dance Songs.
+</tableOfContents>
+<note type="tape number">5</note>
+<originInfo><dateCreated>September 11, 1945</dateCreated></originInfo>
+<subject><topical>Comanche</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
+</mods>
