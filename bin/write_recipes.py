@@ -7,20 +7,22 @@ import json
 import glob
 import os
 import uuid 
+import ConfigParser
 
 from pprint import pprint
 from lxml import etree
 
 
-#######################
-
-# Set to base path for mp3s to load
-mp3_path = ""
-
-########################
-
+# Figure out where our files are and wire up config
+#
 script_path = os.path.dirname(os.path.abspath(__file__)) 
 base = os.path.dirname(script_path)
+
+my_config =ConfigParser.SafeConfigParser()
+my_config.read( "%s/etc/config.ini" % base )
+
+mp3_path = my_config.get("main", "mp3_path")
+
 metadata_path = "%s/metadata/" % base
 tn_path = base
 recipe_path = "%s/recipes" %base
