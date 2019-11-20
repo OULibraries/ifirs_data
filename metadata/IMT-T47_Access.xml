@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T47</identifier>
 <titleinfo><title>Indians for Indians Radio Show, October 26, 1943</title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <note type="broadcast note">Composite tape made from various programs (intertribal) </note>
@@ -21,6 +22,6 @@ Victory Song - Albert Attocknie, Blackie &amp; Mac Whitehorse &amp; Paul Attockn
 Handgame Song
 </tableOfContents>
 <note type="tape number">47</note>
-<originInfo><dateCreated>October 26, 1943</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1943-10-26</dateCreated></originInfo>
 <subject><topical>Mixture</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>

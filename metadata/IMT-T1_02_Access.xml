@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T1_02</identifier>
 <titleinfo><title>Indians for Indians Radio Show, April 5, 1949 </title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <note type="broadcast number">90</note>
 <tableOfContents>Jimmie Quoetone -Christian life and Kiowa prayer Age 90, Kiowa, Daughter: Mrs. Ted Ware, Box 214, Anadarko, Oklahoma.  Speech: Briefly about his life from the time he was a small boy up to the time he became a Christian.  (After break)  He says a prayer.
 </tableOfContents>
 <note type="tape number">1</note>
-<originInfo><dateCreated>April 5, 1949</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1949-04-05</dateCreated></originInfo>
 <subject><topical>Kiowa</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>

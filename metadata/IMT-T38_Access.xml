@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T38</identifier>
 <titleinfo><title>Indians for Indians Radio Show, February 28, 1950</title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <note type="broadcast note">Pawnee Baptist Church </note>
@@ -12,6 +13,6 @@ Pawnee Hymns (2).
 Scripture verse - Mrs. Alice Moore Pawnee Hymns (5).
 </tableOfContents>
 <note type="tape number">38</note>
-<originInfo><dateCreated>February 28, 1950</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1950-02-28</dateCreated></originInfo>
 <subject><topical>Pawnee</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>

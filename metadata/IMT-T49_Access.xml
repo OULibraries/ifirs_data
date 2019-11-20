@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T49</identifier>
 <titleinfo><title>Indians for Indians Radio Show, Undated</title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <name><namePart>Reginald Laubin and Gladys Laubin</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>

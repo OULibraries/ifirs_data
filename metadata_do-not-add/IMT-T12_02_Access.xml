@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T12_02</identifier>
 <titleinfo><title>Indians for Indians Radio Show, June 24, 1947</title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <name><namePart>Jesse Davis</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>
@@ -11,6 +12,6 @@ Kiowa Ghost Dance Songs (8).
 Round Dance.
 </tableOfContents>
 <note type="tape number">12</note>
-<originInfo><dateCreated>June 24, 1947</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1947-06-24</dateCreated></originInfo>
 <subject><topical>Kiowa</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>

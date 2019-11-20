@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T1_03</identifier>
 <titleinfo><title>Indians for Indians Radio Show, August 3, 1943 </title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <name><namePart>Don Whistler</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>
@@ -14,6 +15,6 @@
 <tableOfContents>K-13 Cheyenne Flag Song, Joe Yellow Eyes.  K-14 War Song, Joe Yellow Eyes.  K-15 Two War Dances, Paul Blackbear (Cheyenne).  K-16 Two Round Dances, Paul Blackbear.  K-17 Slow War Dance, M. Duncan, Ed Mack, Evans Walker.  K-18 Brave Dance, M. Duncan, Ed Mack, Evans Walker.  K-19 Gourd Dance, M. Duncan, Ed Mack, Evans Walker.   Pipe Dance,  M. Duncan, Ed Mack, Evans Walker.   Owl Dance,   M. Duncan, Ed Mack, Evans Walker.  K-20 Round Dance, M. Duncan, Ed Mack, Evans Walker.  K-21 Rabbit Dance, M. Duncan, Ed Mack, Evans Walker.  K-22 Round Dances, Stanley Edge (Caddo).  K-33 War Dance by Frank Bushy, Sioux War Songs, Joe Yellow Eyes, Fast War Dance by Paul Black Bear..  K-34 Squaw Song, Frank Bushy, Two Cheyenne War Songs, Joe Yellow Eyes and Paul Black Bear.
 </tableOfContents>
 <note type="tape number">1</note>
-<originInfo><dateCreated>August 3, 1943</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1943-08-03</dateCreated></originInfo>
 <subject><topical>Sac and Fox</topical></subject><subject><topical>Cheyenne</topical></subject><subject><topical>Caddo</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>

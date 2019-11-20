@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T30_03</identifier>
 <titleinfo><title>Indians for Indians Radio Show, September 24, 1946 (Duplicate - See also Tape 25</title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <note type="broadcast number">29</note>
@@ -16,6 +17,6 @@ Shield Dance (2).
 Buffalo Dance (2)
 </tableOfContents>
 <note type="tape number">30</note>
-<originInfo><dateCreated>September 24, 1946</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1946-09-24</dateCreated></originInfo>
 <subject><topical>Kiowa</topical></subject><subject><topical>Cheyenne</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>

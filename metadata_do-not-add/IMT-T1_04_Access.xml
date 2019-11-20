@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T1_04</identifier>
 <titleinfo><title>Indians for Indians Radio Show, October 3, 1944 [See also Tape 126] </title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <name><namePart>Don Whistler</namePart><role><roleTerm type="text">host or master of ceremonies</roleTerm></role></name>
@@ -9,6 +10,6 @@ K-125 Part I, By Chief White Bird, of Calumet, Oklahoma: Six Peyote Songs, Four 
 K-126 Part II: Old Cheyenne Slow War Dance and Owl Dance
 </tableOfContents>
 <note type="tape number">1</note>
-<originInfo><dateCreated>October 3, 1944</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1944-10-03</dateCreated></originInfo>
 <subject><topical>Cheyenne</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>

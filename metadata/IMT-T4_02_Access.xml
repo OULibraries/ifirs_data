@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<identifier type="local">IMT-T4_02</identifier>
 <titleinfo><title>Indians for Indians Radio Show, March 1, 1949</title></titleinfo>
 <typeOfResource>Sound Recording</typeOfResource>
 <note type="broadcast note">Reverend Walter Burgess (?) Konawa  Seminole Missionary Baptist Church</note>
@@ -8,6 +9,6 @@
 A few church songs, preaching in Creek-Seminole.
 </tableOfContents>
 <note type="tape number">4</note>
-<originInfo><dateCreated>March 1, 1949</dateCreated></originInfo>
+<originInfo><dateCreated encoding="edtf">1949-03-01</dateCreated></originInfo>
 <subject><topical>Seminole</topical></subject><note type="preferred citation">When citing recordings from this collection, please using the following:  Indians for Indians Radio Show. Western History Collections, University of Oklahoma Libraries.</note><accessCondition type="use and reproduction" xlink:href="https://rightsstatements.org/vocab/InC-NC/1.0/"/>
 </mods>
